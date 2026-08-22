@@ -38,8 +38,6 @@ Developer opportunity in the United States.
 A web application for visualizing pedestrian activity using
 geospatial data.
 
-🔹 **ERP/CRM system with Mobile messenger and others**
-The management system of a furniture manufacturing company. 
-It includes management, reports, CRM, messenger, windows client 
-for file storage and much more.
+🔹 **ERP/CRM system**
+Enterprise and manufacturing management system featuring ERP, CRM, a mobile app with chats, voice messages, transcription, and audio/video calls; a Windows client for S3 file storage synchronization; PBX and IP telephony integration; data synchronization; and scalable support for groups of companies.
 
