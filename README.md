@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Roman 👋
 
-<!--
-**Wantorai/Wantorai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full-Stack Software Engineer
 
-Here are some ideas to get you started:
+I build web applications and APIs using TypeScript, Node.js, React,
+Next.js and PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for a Junior Software Engineer or Full-Stack
+Developer opportunity in the United States.
+
+### Tech Stack
+
+**Frontend**
+- TypeScript
+- React
+- Next.js
+- React Native
+
+**Backend**
+- Node.js
+- Express
+- REST APIs
+
+**Database**
+- PostgreSQL
+- Sequelize
+
+**Other**
+- Git
+- AWS
+- Docker
+- MapLibre
+- H3
+
+### Featured Projects
+
+🔹 **Human Traffic Raleigh**  
+A web application for visualizing pedestrian activity using
+geospatial data.
+
+🔹 **ERP/CRM system with Mobile messenger and others**
+The management system of a furniture manufacturing company. 
+It includes management, reports, CRM, messenger, windows client 
+for file storage and much more.
+
