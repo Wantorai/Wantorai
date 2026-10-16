@@ -1,6 +1,6 @@
 # Hi, I'm Roman 👋
 
-### Junior Full-Stack Software Engineer
+### Full-Stack Software Engineer
 
 I build web applications and APIs using TypeScript, Node.js, React,
 Next.js and PostgreSQL.
